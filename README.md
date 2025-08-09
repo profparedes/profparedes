@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1>👨‍💻 About Me</h1>
 
-<!--
-**profparedes/profparedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a <strong>Front-End Developer</strong> specializing in <strong>React.js</strong> and <strong>TypeScript</strong>, with experience building responsive, high-performance interfaces and integrating them with APIs.  
 
-Here are some ideas to get you started:
+I also have knowledge in back-end development using <strong>Laravel</strong>, enabling me to contribute to full-stack projects when needed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With over a decade of experience in technology and education, I have worked on projects for both national and multinational companies since 2020.
+
+- 💻 <strong>Postgraduate in Computer Engineering</strong> – IBP 
+- 📱 <strong>React Native</strong> – Rocketseat 
+- 🎓 <strong>Computer Science</strong> – Fundação Estudar  
+- 💻 <strong>Full-Stack Developer</strong> – Jornada do DEV
+- ⚛️ <strong>Ignite React.js</strong> – Rocketseat
+- 🌐 <strong>Discovery Especializar</strong> – Rocketseat
+- 🏭 <strong>Bachelor’s Degree in Production Engineering</strong> – UNINTER
+
+---
+
+<h2>⚙️ Technologies and Tools</h2>
+
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,materialui,sass,php,laravel,graphql,jest,git)](https://skillicons.dev)
+  
+</div>
+
+---
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=profparedes&show_icons=true&count_private=true&hide_border=true&title_color=B253FF&icon_color=B253FF&text_color=c9d1d9&bg_color=0d1117" alt="Fabio Paredes GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profparedes&layout=compact&hide_border=true&title_color=B253FF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+---
+
+<h2>📱 Connect with me</h2>
+<div>
+  <a href="https://fabioparedes.dev" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23F50040?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/fabioparedes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:f.paredes.o@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
