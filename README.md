@@ -20,7 +20,7 @@ With over a decade of experience in technology and education, I have worked on p
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,materialui,sass,php,laravel,graphql,jest,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,jest,bootstrap,materialui,sass,php,laravel,graphql,git)](https://skillicons.dev)
   
 </div>
 
